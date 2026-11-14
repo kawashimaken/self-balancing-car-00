@@ -1,0 +1,24 @@
+Licensing for Self-Balancing Car
+
+Copyright (c) 2026 kawashimaken
+
+The original contributions in this repository are licensed by scope:
+
+* Software under software/: MIT License. See software/LICENSE.
+  SPDX-License-Identifier: MIT
+
+* Hardware design files under hardware/: CERN Open Hardware Licence
+  Version 2 - Permissive. See hardware/LICENSE.
+  SPDX-License-Identifier: CERN-OHL-P-2.0
+
+* The root README.md and README.ja.md: MIT License. See software/LICENSE.
+
+Project source: https://github.com/kawashimaken/self-balancing-car-00
+
+These licences apply only to material for which the project copyright
+holder can grant rights. Third-party libraries, designs, and other material
+remain subject to their respective licences and copyright notices; they
+are not relicensed by this notice. Preserve any third-party notices.
+
+The complete licence texts, including their conditions and warranty and
+liability provisions, are provided in the files identified above.

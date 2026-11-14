@@ -1,0 +1,23 @@
+# Local credentials (copy wifi_config.example.h to wifi_config.h)
+**/wifi_config.h
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build output and editor / assistant settings
+**/.pio/
+**/.vscode/
+.claude/
+.codex/
+.idea/
+__pycache__/
+
+# CAD backups and OS files
+*.FCBak
+*.FCStd1
+*.bak
+*.step.bak
+.DS_Store
+Thumbs.db
