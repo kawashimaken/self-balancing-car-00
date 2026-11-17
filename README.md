@@ -1,9 +1,11 @@
 ## Video
 
 <div align="center">
+  <div align="center">
   <a href="https://youtu.be/T2_N7V6W7gY" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/T2_N7V6W7gY/maxresdefault.jpg" alt="Self-balancing car demo video" width="800" />
   </a>
+</div>
 </div>
 
 # Self-Balancing Car
